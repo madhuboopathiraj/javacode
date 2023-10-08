@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author GK
+ *
+ */
+module TrianglePattern {
+}
